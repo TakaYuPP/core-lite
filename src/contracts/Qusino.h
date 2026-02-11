@@ -753,7 +753,7 @@ protected:
         state.CCFDividendsAddress = id(CCF_CONTRACT_INDEX, 0, 0, 0);
         state.treasuryAddress = ID(_B, _Z, _X, _I, _A, _E, _X, _W, _R, _S, _X, _M, _C, _A, _W, _A, _N, _G, _V, _Y, _T, _W, _D, _A, _U, _E, _I, _A, _D, _F, _N, _O, _F, _C, _K, _G, _X, _V, _Q, _M, _P, _C, _K, _U, _H, _S, _M, _L, _F, _E, _E, _B, _E, _P, _C, _C);
         state.QSTAssetName = 5526353;
-        state.QSTIssuer = ID(_Q, _M, _H, _J, _N, _L, _M, _Q, _R, _I, _B, _I, _R, _E, _F, _I, _W, _V, _K, _Y, _Q, _E, _L, _B, _F, _A, _R, _B, _T, _D, _N, _Y, _K, _I, _O, _B, _O, _F, _F, _Y, _F, _G, _J, _Y, _Z, _S, _X, _J, _B, _V, _G, _B, _S, _U, _Q, _G);
+        state.QSTIssuer = ID(_S, _I, _N, _U, _B, _Y, _S, _B, _Z, _K, _B, _S, _V, _E, _F, _Q, _D, _Z, _B, _Q, _W, _U, _E, _J, _W, _R, _X, _C, _X, _O, _Z, _N, _K, _P, _H, _I, _X, _D, _Z, _W, _R, _B, _K, _X, _D, _S, _P, _J, _E, _H, _F, _A, _M, _B, _A, _C);
     }
 
     struct END_EPOCH_locals
